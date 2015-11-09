@@ -1,0 +1,23 @@
+{
+  "name": "ned-web",
+  "version": "0.0.1",
+  "description": "ned html5 frontend",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanCopley/ned-web.git"
+  },
+  "keywords": [
+    "ned",
+    "web"
+  ],
+  "author": "Ryan Copley <npm@ryancopley.com> (http://github.com/RyanCopley)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RyanCopley/ned-web/issues"
+  },
+  "homepage": "https://github.com/RyanCopley/ned-web#readme"
+}
